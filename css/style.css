@@ -1,0 +1,12 @@
+/** The style for the DIV where flutter will be rendered, and the CSS fx */
+#flutter_target {
+    width: 600px;
+    height: 600px;
+    border-radius: 0px;
+    transition: all 150ms ease-in;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+}

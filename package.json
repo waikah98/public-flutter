@@ -1,0 +1,11 @@
+{
+  "name": "public-flutter",
+  "version": "1.0.17",
+  "description": "",
+  "main": "flutter-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wk",
+  "license": "ISC"
+}
